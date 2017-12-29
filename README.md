@@ -4,7 +4,7 @@
 
 ## 使用
 
-下载 PHAR 包，放入你的项目中即可。
+[下载 PHAR 包](https://github.com/onanying/swoole-ide-helper.phar/raw/master/swoole-ide-helper.phar)，放入你的项目中即可。
 
 ## 版权
 
